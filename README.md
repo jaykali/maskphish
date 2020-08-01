@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.imgur.com/KQ7IMpF.jpg" width="600px" hight="100px">
+	<img src="https://i.imgur.com/plp3lJu.jpg" width="600px" hight="100px">
 </p>
 
 ## Author: https://github.com/jaykali
