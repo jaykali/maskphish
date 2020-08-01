@@ -1,6 +1,7 @@
 <p align="center">
-	<img src="https://i.imgur.com/9wiJxL5.jpg" width="600px">
+	<img src="https://i.imgur.com/9wiJxL5.jpg" width="600px" hight="300px">
 </p>
+
 ## Author: https://github.com/jaykali
 ## Twitter: https://twitter.com/KaliLinux_in
 
