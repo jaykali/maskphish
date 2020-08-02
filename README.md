@@ -12,13 +12,17 @@
 ## Legal Disclaimer:
 Usage of MaskPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-## Installing (Tested on Kali Linux):
+## Installing (Tested on Kali Linux, Termux & Ubuntu):
 
 ```
 git clone https://github.com/jaykali/maskphish
-cd maskphish 
-chmod +x maskphish.sh
+cd maskphish
 ./maskphish
 ```
 ## Detailed Article:
 Coming soon
+
+## Example
+<p align="center">
+	<img src="https://i.imgur.com/1JsWv4I.png" width="600px">
+</p>
