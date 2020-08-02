@@ -19,8 +19,8 @@ read phish
 short=$(curl -s https://da.gd/s/?url=${phish})
 shorter=${short#https://}
 echo
-echo -e "\e[1;31;42m ### Masking URL ###\e[0m"
-echo 'URL to mask the Phishing URL (with http or https), ex https://google.com, http
+echo -e "\e[1;31;42m ### Masking Domain ###\e[0m"
+echo 'Domain to mask the Phishing URL (with http or https), ex https://google.com, http
 ://anything.org) :'
 echo
 read mask
