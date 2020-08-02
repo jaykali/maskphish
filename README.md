@@ -6,7 +6,7 @@
 ## Twitter: https://twitter.com/KaliLinux_in
 
 
-### MaskPhish is a simple script to hide phishing URL under a normal lokking URL.
+### MaskPhish is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
 
 
 ## Legal Disclaimer:
@@ -20,7 +20,7 @@ cd maskphish
 ./maskphish
 ```
 ## Detailed Article:
-Coming soon
+https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
 
 ## Example
 <p align="center">
