@@ -22,6 +22,9 @@ cd maskphish
 ## Detailed Article:
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
 
+## Start Discussition
+Want to discuss about MaskPhish with us? (Click Here)[https://github.com/jaykali/maskphish/discussions].
+
 ## Screenshot
 <p align="center">
 	<img src="https://i.imgur.com/1JsWv4I.png" width="600px">
