@@ -17,7 +17,7 @@ Usage of MaskPhish for attacking targets without prior mutual consent is illegal
 ```
 git clone https://github.com/jaykali/maskphish
 cd maskphish
-./maskphish
+./maskphish.sh
 ```
 ## Detailed Article:
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
