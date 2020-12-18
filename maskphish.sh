@@ -1,5 +1,5 @@
 # Bash Script for Hide Phishing URL Created by KP
-
+#!/bin/zsh
 url_checker() {
     if [ ! "${1//:*}" = http ]; then
         if [ ! "${1//:*}" = https ]; then
