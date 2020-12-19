@@ -1,5 +1,5 @@
 # Bash Script for Hide Phishing URL Created by KP
-#!/bin/zsh
+
 url_checker() {
     if [ ! "${1//:*}" = http ]; then
         if [ ! "${1//:*}" = https ]; then
@@ -23,11 +23,11 @@ read phish
 url_checker $phish
 sleep 1
 echo "Processing and Modifing Phishing URL"
-sleep 1
-short=$(curl https://is.gd/create.php\?format\=simple\&url\=${phish})
+echo ""
+short=$(curl -s https://is.gd/create.php\?format\=simple\&url\=${phish})
 shorter=${short#https://}
 echo -e "\n\e[1;31;42m ### Masking Domain ###\e[0m"
-echo 'Domain to mask the Phishing URL (with http or https), ex https://google.com, http
+echo 'Domain to mask the Phishing URL (with http or https), ex: https://google.com, http
 ://anything.org) :'
 echo -en "\e[32m=>\e[0m "
 read mask
