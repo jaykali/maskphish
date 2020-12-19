@@ -12,12 +12,12 @@
 ## Legal Disclaimer:
 Usage of MaskPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-## Installing (Tested on Kali Linux, Termux & Ubuntu with ZSH):
+## Installing (Tested on Kali Linux, Termux & Ubuntu):
 
 ```
 git clone https://github.com/jaykali/maskphish
 cd maskphish
-./maskphish.sh
+bash maskphish.sh
 ```
 ## Detailed Article:
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
