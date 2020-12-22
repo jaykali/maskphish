@@ -5,6 +5,7 @@
 ## Author: https://github.com/jaykali
 ## Twitter: https://twitter.com/KaliLinux_in
 
+### MaskPhish 2.0 is here.
 
 ### MaskPhish is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
 
