@@ -37,5 +37,5 @@ echo -e "\e[31mDon't use space just use '-' between social engineering words\e[0
 echo -en "\e[32m=>\e[0m "
 read words
 echo -e "\nGenerating MaskPhish Link...\n"
-final=$mask-$words@$shorter
+final=$mask⧸q=$words@$shorter
 echo -e "Here is the MaskPhish URL:\e[32m ${final} \e[0m\n"
