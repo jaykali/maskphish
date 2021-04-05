@@ -34,7 +34,7 @@ Want to discuss about MaskPhish with us? (Click Here)[https://github.com/jaykali
 ## Contributors:
 You can propose a feature request opening an issue or a pull request.
 
-Here is a list of Osintgram's contributors:
+Here is a list of MaskPhish contributors:
 
 <a href="https://github.com/jaykali/maskphish/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=jaykali/maskphish" />
