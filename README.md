@@ -24,7 +24,7 @@ bash maskphish.sh
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
 
 ## Start Disscussion on MaskPhish
-Want to discuss about MaskPhish with us? (Click Here)[https://github.com/jaykali/maskphish/discussions/new].
+Want to discuss about MaskPhish with us?Click [here](https://github.com/jaykali/maskphish/discussions/new)
 
 ## Screenshot
 <p align="center">
