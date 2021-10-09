@@ -1,6 +1,6 @@
 <!-- Image -->
 <p align="center">
-	<img src="https://i.imgur.com/plp3lJu.jpg" width="650px" height="350px">
+	<img src="https://i.imgur.com/plp3lJu.jpg" width="650px" height="300px">
 </p>
 
 <!-- Tags - 1 -->
@@ -40,14 +40,18 @@
      <h3 align = "center"> 👨‍💻️ Author : <a href = "https://github.com/jaykali"> jaykali </a> </h3>
 </p>
 
+<br />
 
 ## 🔥 MaskPhish
 It is a simple Bash Script to hide phishing URL under a normal looking URL (google.com or facebook.com).
 
+<br />
 
 ## ⚖️ Legal Disclaimer:
 **FOR EDUCATIONAL PURPOSES ONLY** <br />
 Usage of MaskPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Use Responsibly!
+
+<br />
 
 ## 💻 Installation 
 
@@ -61,14 +65,21 @@ cd maskphish
 # Run the script
 bash maskphish.sh
 ```
+
+<br />
+
 - *Tested on Kali Linux, Termux & Ubuntu* <br />
 - Detailed Article can be found [here](https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html)
 - Want to discuss something? Start discussions [click here](https://github.com/jaykali/maskphish/discussions/new)
+
+<br />
 
 ## 🖼️ Screenshot
 <p align="">
 	<img src="https://i.imgur.com/1JsWv4I.png" width="600px">
 </p>
+
+<br />
 
 ## ❤️ Contributors:
 You can propose a feature request opening an issue or a pull request.
