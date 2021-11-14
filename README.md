@@ -54,7 +54,7 @@ Usage of MaskPhish for attacking targets without prior mutual consent is illegal
 <br />
 
 ## Common Issue
-Sometimes Masked link is not generating properly. In that case we need to use VPN/proxy, then use maskphish to generate masked link. It might be happen when our ISP (Internet Service Provider) is blocing is.gd services. We can check if our ISP is blocking the services by opening <a href="https://wwww.is.gd">is.gd</a> from our browser.
+Sometimes Masked link is not generating properly. In that case we need to use VPN/proxy, then use maskphish to generate masked link. It might be happen when our ISP (Internet Service Provider) is blocing is.gd services. We can check if our ISP is blocking the services by opening <a href="https://www.is.gd">is.gd</a> from our browser.
 
 ## 💻 Installation 
 
