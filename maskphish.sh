@@ -1,3 +1,4 @@
+#!/bin/bash
 # Bash Script for Hide Phishing URL Created by KP
 
 url_checker() {
